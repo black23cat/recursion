@@ -9,7 +9,7 @@ fibonacci.js contain 3 function
   - Eg **fibs(5)** return **[0, 1, 1, 2 , 3, 5]**
 - **fibsRec(n)**
   - Return sequence of given fibonacci number using recursive method
-  - Eg **fibs(5)** return **[0, 1, 1, 2 , 3, 5]**
+  - Eg **fibsRec(5)** return **[0, 1, 1, 2 , 3, 5]**
 - **fibonacciTerm(n)**
   - Return number of fibonacci (n) sequence
   - Eg **fibonacciTerm(5)** return **5**
